@@ -1,0 +1,8 @@
+E:\Projects\QCPChallenge\QCP.Model\bin\Debug\netcoreapp3.1\QCP.Model.deps.json
+E:\Projects\QCPChallenge\QCP.Model\bin\Debug\netcoreapp3.1\QCP.Model.dll
+E:\Projects\QCPChallenge\QCP.Model\bin\Debug\netcoreapp3.1\QCP.Model.pdb
+E:\Projects\QCPChallenge\QCP.Model\obj\Debug\netcoreapp3.1\QCP.Model.AssemblyInfoInputs.cache
+E:\Projects\QCPChallenge\QCP.Model\obj\Debug\netcoreapp3.1\QCP.Model.AssemblyInfo.cs
+E:\Projects\QCPChallenge\QCP.Model\obj\Debug\netcoreapp3.1\QCP.Model.csproj.CoreCompileInputs.cache
+E:\Projects\QCPChallenge\QCP.Model\obj\Debug\netcoreapp3.1\QCP.Model.dll
+E:\Projects\QCPChallenge\QCP.Model\obj\Debug\netcoreapp3.1\QCP.Model.pdb
